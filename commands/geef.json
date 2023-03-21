@@ -1,7 +1,7 @@
 {
-        "name": ".shop",
-        "desc": "Koop dingen in de shop!",
-        "usage": ".shop",
-        "examp": ".shop",
+        "name": ".geef",
+        "desc": "Geef geld aan mensen!",
+        "usage": ".geef @persoon {geld}",
+        "examp": ".geef @Laurens 3000",
         "code": "200"
 }
