@@ -1,0 +1,7 @@
+{
+        "name": ".geef",
+        "desc": "Geef geld aan mensen!",
+        "usage": ".geef @persoon {geld}",
+        "examp": ".geef @Laurens 3000",
+        "code": "200"
+}
