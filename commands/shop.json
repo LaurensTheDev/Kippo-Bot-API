@@ -1,9 +1,7 @@
 {
-    "shop": {
         "name": ".shop",
         "desc": "Koop dingen in de shop!",
         "usage": ".shop",
         "examp": ".shop",
         "code": "200"
-    }
 }
