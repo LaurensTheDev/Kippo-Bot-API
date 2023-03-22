@@ -1,0 +1,7 @@
+{
+        "name": ".deposit",
+        "desc": "Zet geld op de bank!",
+        "usage": ".deposit",
+        "examp": ".deposit",
+        "code": "200"
+}

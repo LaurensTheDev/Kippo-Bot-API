@@ -1,0 +1,7 @@
+{
+        "name": ".leaderboard",
+        "desc": "Bekijk hoeveel geld of gems iemand heeft!",
+        "usage": ".leaderboard",
+        "examp": ".leaderboard",
+        "code": "200"
+}

@@ -1,0 +1,7 @@
+{
+        "name": ".inventory",
+        "desc": "De plek waar je al je spullen kan zien!",
+        "usage": ".inventory",
+        "examp": ".inventory",
+        "code": "200"
+}
