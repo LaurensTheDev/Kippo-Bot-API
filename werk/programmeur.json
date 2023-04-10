@@ -1,7 +1,9 @@
 {
+    "res": {
     "1": "Je hebt een game ontwikkeld! Hij was erg succesvol, je kreeg er ${coins} coins voor.",
     "2": "Je hebt een bot gemaakt, mensen vonden hem leuk en gingen geld aan je geven. Ze gaven je ${coins} coins.",
     "3": "Je hebt een website gemaakt, mensen vonden hem leuk en gaven je ${coins} coins.",
     "4": "Je hebt geholpen een game te maken, je kreeg ${coins} coins voor je hulp.",
     "5": "Je hebt geholpen een bot te maken, je kreeg ${coins} coins voor je hulp."
+    }
 }
