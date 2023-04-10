@@ -1,9 +1,9 @@
 {
     "res": {
-    "een": "Je hebt een game ontwikkeld! Hij was erg succesvol, je kreeg er ${coins} coins voor.",
-    "twee": "Je hebt een bot gemaakt, mensen vonden hem leuk en gingen geld aan je geven. Ze gaven je ${coins} coins.",
-    "drie": "Je hebt een website gemaakt, mensen vonden hem leuk en gaven je ${coins} coins.",
-    "vier": "Je hebt geholpen een game te maken, je kreeg ${coins} coins voor je hulp.",
-    "vijf": "Je hebt geholpen een bot te maken, je kreeg ${coins} coins voor je hulp."
+    "een": "Je hebt een game ontwikkeld! Hij was erg succesvol, je kreeg er ... coins voor.",
+    "twee": "Je hebt een bot gemaakt, mensen vonden hem leuk en gingen geld aan je geven. Ze gaven je ... coins.",
+    "drie": "Je hebt een website gemaakt, mensen vonden hem leuk en gaven je ... coins.",
+    "vier": "Je hebt geholpen een game te maken, je kreeg ... coins voor je hulp.",
+    "vijf": "Je hebt geholpen een bot te maken, je kreeg ... coins voor je hulp."
     }
 }
