@@ -1,0 +1,7 @@
+{
+    "1": "Je hebt je veld geoogst, het was een succesvolle oogst! Je hebt daarmee $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins verdiend!",
+    "2": "Je hebt je koeien gemolken, daarmee heb je $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins verdiend!",
+    "3": "Je hebt je kippen gevoerd, daarmee heb je $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins verdiend!",
+    "4": "Je hebt je trekker verkocht, daarmee heb je $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins gekregen!",
+    "5": "Je hebt de boer aan de overkant geholpen, hij gaf je $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins!"
+}
