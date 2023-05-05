@@ -1,0 +1,7 @@
+{
+    "name": "/updates",
+    "desc": "Check alle veranderingen in een update!",
+    "usage": "/updates",
+    "examp": "/updates",
+    "code": "200"
+}

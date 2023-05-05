@@ -1,7 +1,0 @@
-{
-        "name": ".withdraw",
-        "desc": "Haal geld van de bank!",
-        "usage": ".withdraw",
-        "examp": ".withdraw",
-        "code": "200"
-}
