@@ -1,7 +1,0 @@
-{
-    "1": "Je hebt een patiënt geholpen, hij genas van zijn ziekte. Hij gaf je $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins.",
-    "2": "Je verkocht medicijnen, je hebt daarmee $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins verdiend.",
-    "3": "Iemand kreeg een hartaanval, je hielp hem en kreeg $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins.",
-    "4": "Je hielp een vrouw die een kind kreeg, je kreeg $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins.",
-    "5": "Je hielp iemand met een gebroken been, je kreeg $multi[$random[50;200];$getUserVar[coinboost]]<a:KippoCoin:1008699862524633159> coins."
-}
