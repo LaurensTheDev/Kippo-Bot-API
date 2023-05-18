@@ -1,6 +1,8 @@
 {
-    "1": "Je kan met de *__Meer kopen__* upgrade tot maximaal 4 items kopen in de shop!",
-    "2": "Je kan deze tips uitzetten in je *__.inventory__*!",
-    "3": "Alleen **jij** kan op de knoppen drukken van commando's die jij hebt uitgevoerd!",
-    "4": ";De **terugknoppen** brengen je één stap terug!"
+    "tips": {
+        "1": "Je kan met de *__Meer kopen__* upgrade tot maximaal 4 items kopen in de shop!",
+        "2": "Je kan deze tips uitzetten in je *__.inventory__*!",
+        "3": "Alleen **jij** kan op de knoppen drukken van commando's die jij hebt uitgevoerd!",
+        "4": "De **terugknoppen** brengen je één stap terug!"
+    }
 }
