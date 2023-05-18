@@ -1,8 +1,18 @@
 {
     "tips": {
-        "1": "Je kan met de *__Meer kopen__* upgrade tot maximaal 4 items kopen in de shop!",
-        "2": "Je kan deze tips uitzetten in je *__.inventory__*!",
-        "3": "Alleen **jij** kan op de knoppen drukken van commando's die jij hebt uitgevoerd!",
-        "4": "De **terugknoppen** brengen je één stap terug!"
+    "1": "Je kan met de **Meer kopen upgrade** tot maximaal **8**?? items kopen in de shop!",
+    "2": "Je kan deze tips uitzetten in je **.inventory**!",
+    "3": "Alleen **jij** kan op de knoppen drukken van commando's die jij hebt uitgevoerd!",
+    "4": "De **terugknoppen** brengen je één stap terug!",
+    "5": "De prijzen van sommige items in de shop kunnen **fluctueren**, dus houd ze in de gaten!",
+    "6": "Gebruik het commando **.help info {commando}** om meer informatie over een commando te krijgen!",
+    "7": "Probeer nieuwe **items** en experimenteer met verschillende **combinaties** voor de beste prijzen!",
+    "8": "Bekijk **.help** voor gedetailleerde informatie over de beschikbare commando's!",
+    "9": "Als je **vragen hebt of problemen tegenkomt**, neem dan contact op met de **developers** voor hulp!",
+    "10": "Verdien **beloningen en prestaties** door uitdagende doelen te voltooien in de bot!",
+    "11": "Gebruik het commando **.shop** om de nieuwste items en aanbiedingen te bekijken!",
+    "12": "Verdien extra **geld en gems** door **dagelijkse beloningen** te claimen!",
+    "13": "Ontdek verborgen **easter eggs** en geheime commando's door de bot grondig te verkennen!",
+    "14": "Kijk regelmatig naar **aankondigingen en updates** van de bot voor **nieuwe** functies en evenementen!"
     }
-}
+    }
